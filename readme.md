@@ -1,1 +1,1 @@
-coming soon
+In the lists of entries the newest entry is always on top of the list.

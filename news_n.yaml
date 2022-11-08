@@ -1,0 +1,16 @@
+newsEntries:
+  - title: News 1
+    content:
+      -  
+        text: Breaking News 1
+        button: http://noobygames.de:3399
+        url: http://noobygames.de:3399
+        thumbnailUrl: https://raw.githubusercontent.com/Clarilab/assets/master/ClariLab_BIldmarke_default_small.png
+
+  - title: News 2
+    content:
+      -  
+        text: Breaking News 2
+        button: http://noobygames.de:3399
+        url: http://noobygames.de:3399
+        thumbnailUrl: https://raw.githubusercontent.com/Clarilab/assets/master/ClariLab_BIldmarke_default_small.png

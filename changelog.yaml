@@ -1,24 +1,18 @@
-changeLogEntries:
+entries:
   - title: Changelog 1
-    content:
-      -  
-        text: The following changes were made ...
-        button: http://noobygames.de:3399
-        url: http://noobygames.de:3399
-        thumbnailUrl: https://raw.githubusercontent.com/Clarilab/assets/master/ClariLab_BIldmarke_default_small.png
+    text: The following changes were made ...
+    button: http://noobygames.de:3399
+    url: http://noobygames.de:3399
+    thumbnailUrl: https://raw.githubusercontent.com/Clarilab/assets/master/ClariLab_BIldmarke_default_small.png
 
   - title: Changelog 2
-    content:
-      -  
-        text: The following changes were made ...
-        button: http://noobygames.de:3399
-        url: http://noobygames.de:3399
-        thumbnailUrl: https://raw.githubusercontent.com/Clarilab/assets/master/ClariLab_BIldmarke_default_small.png
+    text: The following changes were made ...
+    button: http://noobygames.de:3399
+    url: http://noobygames.de:3399
+    thumbnailUrl: https://raw.githubusercontent.com/Clarilab/assets/master/ClariLab_BIldmarke_default_small.png
  
   - title: Changelog 3
-    content:
-      -  
-        text: The following changes were made ...
-        button: http://noobygames.de:3399
-        url: http://noobygames.de:3399
-        thumbnailUrl: https://raw.githubusercontent.com/Clarilab/assets/master/ClariLab_BIldmarke_default_small.png
+    text: The following changes were made ...
+    button: http://noobygames.de:3399
+    url: http://noobygames.de:3399
+    thumbnailUrl: https://raw.githubusercontent.com/Clarilab/assets/master/ClariLab_BIldmarke_default_small.png

@@ -1,18 +1,13 @@
 entries:
-  - title: News 1
-    text: Breaking News 1
-    button: Click me
-    url: http://noobygames.de:3399
+  - title: "News 2"
+    text: "Breaking News 2"
+    buttonText: "Click me"
+    buttonUrl: https://status.kycnow.de/ui/statuspages
     thumbnailUrl: https://raw.githubusercontent.com/Clarilab/news-content/main/assets/ClariLab_BIldmarke_default_small.png
 
-  - title: News 2
-    text: Breaking News 2
-    button: Click me
-    url: http://noobygames.de:3399
+  - title: "News 1"
+    text: "Breaking News 1"
+    buttonText: "Click me"
+    buttonUrl: https://status.kycnow.de/ui/statuspages
     thumbnailUrl: https://raw.githubusercontent.com/Clarilab/news-content/main/assets/ClariLab_BIldmarke_default_small.png
     
-  - title: News 3
-    text: Breaking News 3
-    button: Click me
-    url: http://noobygames.de:3399
-    thumbnailUrl: https://raw.githubusercontent.com/Clarilab/news-content/main/assets/ClariLab_BIldmarke_default_small.png

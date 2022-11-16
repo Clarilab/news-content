@@ -1,18 +1,18 @@
 entries:
   - title: News 1
     text: Breaking News 1
-    button: http://noobygames.de:3399
+    button: Click me
     url: http://noobygames.de:3399
-    thumbnailUrl: https://raw.githubusercontent.com/Clarilab/assets/master/ClariLab_BIldmarke_default_small.png
+    thumbnailUrl: https://raw.githubusercontent.com/Clarilab/news-content/main/assets/ClariLab_BIldmarke_default_small.png
 
   - title: News 2
     text: Breaking News 2
-    button: http://noobygames.de:3399
+    button: Click me
     url: http://noobygames.de:3399
-    thumbnailUrl: https://raw.githubusercontent.com/Clarilab/assets/master/ClariLab_BIldmarke_default_small.png
+    thumbnailUrl: https://raw.githubusercontent.com/Clarilab/news-content/main/assets/ClariLab_BIldmarke_default_small.png
     
   - title: News 3
     text: Breaking News 3
-    button: http://noobygames.de:3399
+    button: Click me
     url: http://noobygames.de:3399
-    thumbnailUrl: https://raw.githubusercontent.com/Clarilab/assets/master/ClariLab_BIldmarke_default_small.png
+    thumbnailUrl: https://raw.githubusercontent.com/Clarilab/news-content/main/assets/ClariLab_BIldmarke_default_small.png

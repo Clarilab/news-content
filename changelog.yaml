@@ -1,18 +1,12 @@
 entries:
-  - title: Changelog 1
-    text: The following changes were made ...
-    button: Click me
-    url: http://noobygames.de:3399
+  - title: "Changelog 2"
+    text: "The following changes were made ..."
+    buttonText: "Click me"
+    buttonUrl: https://status.kycnow.de/ui/statuspages
     thumbnailUrl: https://raw.githubusercontent.com/Clarilab/news-content/main/assets/ClariLab_BIldmarke_default_small.png
 
-  - title: Changelog 2
-    text: The following changes were made ...
-    button: Click me
-    url: http://noobygames.de:3399
-    thumbnailUrl: https://raw.githubusercontent.com/Clarilab/news-content/main/assets/ClariLab_BIldmarke_default_small.png
- 
-  - title: Changelog 3
-    text: The following changes were made ...
-    button: Click me
-    url: http://noobygames.de:3399
+  - title: "Changelog 1"
+    text: "The following changes were made ..."
+    button: "Click me"
+    url: https://status.kycnow.de/ui/statuspages
     thumbnailUrl: https://raw.githubusercontent.com/Clarilab/news-content/main/assets/ClariLab_BIldmarke_default_small.png

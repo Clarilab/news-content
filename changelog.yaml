@@ -7,6 +7,6 @@ entries:
 
   - title: "Changelog 1"
     text: "The following changes were made ..."
-    button: "Click me"
-    url: https://status.kycnow.de/ui/statuspages
+    buttonText: "Click me"
+    buttonUrl: https://status.kycnow.de/ui/statuspages
     thumbnailUrl: https://raw.githubusercontent.com/Clarilab/news-content/main/assets/ClariLab_BIldmarke_default_small.png

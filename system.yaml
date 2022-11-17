@@ -1,12 +1,6 @@
 entries:
-  - title: System News 1
-    text: Breaking System News 1
-    button: Click me
-    url: http://noobygames.de:3399
-    thumbnailUrl: https://raw.githubusercontent.com/Clarilab/news-content/main/assets/ClariLab_BIldmarke_default_small.png
-
-  - title: System News 2
-    text: Important System News 2
-    button: Click me
-    url: http://noobygames.de:3399
+  - title: "Systemstatus"
+    text: "Alle Systeme laufen innerhalb der normalen Parameter"
+    buttonText: "Statuspage anzeigen"
+    buttonUrl: https://status.kycnow.de/ui/statuspages
     thumbnailUrl: https://raw.githubusercontent.com/Clarilab/news-content/main/assets/ClariLab_BIldmarke_default_small.png
